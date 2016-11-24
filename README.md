@@ -7,3 +7,9 @@ No more navigating through the document html to find the audio source element an
 [Available on the Chrome Web Store](https://chrome.google.com/webstore/detail/overcast-downloader/dlnepfckckhaaehhcgkakkgnnkhdlhma?hl=en-US)
 
 This extension is not affiliated with [Overcast.fm](https://overcast.fm) (Overcast Radio, LLC) and any of its products.
+
+## Usage
+
+The extension will only be active on Overcast web player pages. Click the extension and the current podcast will begin downloading.
+
+![img](img.png)
